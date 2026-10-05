@@ -1,4 +1,4 @@
-# OEAS805 LTS(Lafayette Time Series)
+# LTS(Lafayette Time Series)
 
 This project aims to relate dry wind events to chlorophyll flux in the Lafayette river. To explore this relationship, I use historical
 continuous monitoring data of: Vertical profiles, Continuous in-situ monitors, and extracted nutrient and chlorophyll data comparing to
